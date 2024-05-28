@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://nagabet76.github.io/ciayo/upload/sitemap.xml
+
+
+
+
